@@ -1,0 +1,40 @@
+.lightGray {
+    background: #eee;
+}
+
+.darkGray {
+    background: #999;
+}
+.topLeft {
+    width: 24%;
+    height: 23vh;
+    position: fixed;
+    top: 0%;
+    left: 0%;
+}
+
+.middle {
+    width: 60%;
+}
+
+.centerDiv {
+    height: 300px;
+    z-index: 1;
+}
+
+.margin {
+    margin-left: 20%;
+}
+
+.bottomDiv {
+    position: absolute;
+    height: 160px;
+    width: 30%;
+    bottom: 0%;
+    right: -5%;
+    z-index: 999;
+}
+
+.relative {
+    position: relative;
+}
